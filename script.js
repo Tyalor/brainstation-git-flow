@@ -22,9 +22,9 @@ const poems = [
 
   // YOUR CODE HERE: Add an object containing two key value pairs: author and poem. Set the author property as equal to a string with your first name. Set the poem property as equal to a short "roses are red" poem. Use the new line character as in the example when you would like a line break.
   {
-    author: "Melody",
-    poem: "just the vermillion flicker of cannas near the pane. Our bodies too, plateaued; my hole, newly bloomless. Outdoors, further out, a wren winnows, the mesquite on whose yielding limbs the all- but-tender fowl rests flexes, in cold as in darkness . . . Time, like desire, expands too— no? My lover, nodding gently, shakes the leaves, & A little softer. A little softer now— A little softer, for what’s been torn.",
-    image: "download.jpeg",
+    author: "Tommy",
+    poem: "Roses are red \n pizza is good",
+    image: "pizzaNew.jpeg"
   }
 ];
 
